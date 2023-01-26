@@ -1,1 +1,82 @@
-<mxfile host="Electron" modified="2023-01-26T11:12:24.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.8.10 Chrome/106.0.5249.199 Electron/21.3.5 Safari/537.36" etag="LT0yZD1Q7i40wKh5HM-t" version="20.8.10" type="device"><diagram name="페이지-1" id="IkwNOU0qhHBYfhDU2j00">7ZrLkuI2FIafRstJyZaxpaVt3JlkJotULzIzO3ejBmcMoo1oIE+foxuyB6ZjqtztSgEbpKO7rO8/4mBE8uX+16ZcL/4QM16jEM/2iExRGAYxSeBLWQ7GMolCY5g31cxW8ob76h9ujdhat9WMbzoVpRC1rNZd46NYrfij7NjKphG7brUnUXdHXZdzfmK4fyzrU+tf1UwujJWGibd/5NV84UYOYmZKlqWrbFeyWZQzsWuZSIFI3gghTWq5z3mtNs/ti2l395PS48QavpJ9GnzZfvrz98O356g4EDbH0bJ8/u0DsXOTB7dgPoP126xo5ELMxaqsC2/NGrFdzbjqFUPO1/ksxBqMARj/5lIe7MMst1KAaSGXtS3l+0p+Uc1/mdjc11bJdG971pmDy6xkc2g1Utmv7TLfTOdcO7M+taifbps1bcS2eeSv7JU7fmUz5/KVeuHx4QIVXCw5zAfaNbwuZfXSnUdpj+f8WM8/QUjYh3jBA7X9vpT11o6EwriG6WZPAhasQKlFo0vi5606e7BFBOtP2xTP9XeRIzZFGUXFFLEI0RwVGUoxotQVRSpBJ4hRNxDM24xl+/jxhHXPz25RSX6/LvXW70BEumflqarr/DhlEuOSBYldTcv+pD9g38hGfOetknCaxNifhBfeSL5//SycPjvXgFiWrZglNrvzyhA43BctVYjxGz3tyQ3f3viGPfGNxsQ3HBjfVLGrYAVqY5TCpHCLaQCXIApryd0oD41vO1UNoYmqXyCGfW+qE9CDVOtBriye/lYPV6cHweiCkNwEobcgRD0FIR5TEKLB/XlKUGawzZQOwOwgnWn3flQGdWZPBcE0cYKQTrQgwF0AO0HQt4BCd5tNrw//kI6NP7vh3xv/uCf+dEz844HxP/XpkEj0LV4798ywrLk2pTRWXv7qWCajsxwEJ9t7g/lVSHvAHODzp+B9aKaDO3Oqf42r232okIUEvUM00hBnil0WWq9+9NJgzCbaXTPt86FtoLz6uft7uVTMrh42axcMMKKRoYzYe4IPA+ixodOr04qIja4VtzjeBXE83Fcsxo3k4YHVItNqoSN47M7FAoynn2gtiTzS7Ys+C64PadXxyEjfYnsXIN03uBeMGt1z0xwyvEf0BcB4cxOUh5/4DmNwyyb4pzC+ygD96BgPH8BhmfvhVvhEW86pSYQoZWdudceor0pAtXN1ru6g0PEPyi12c4He9w3eBKNGb4Khwzf25vZBQ5+6aE2u/5E14ds7/X+O+YmG9R3OJS5mOriY6QfMCY/PsYs5xeCJBmEXbsY/XNbopB+8yVvBe3zHYxR4gxa6HuT/greDrif5HeDtHawZ97I2fLSGJTZ6QiP7BkWauMBM7l6ryFS8lZ735d14zDv59v+NDiTs7XQAsv5VLV3WeuGNFP8C</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-26T11:36:10.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vsE79QYa2xksihqn_fPc" version="20.8.11" type="github">
+  <diagram name="페이지-1" id="IkwNOU0qhHBYfhDU2j00">
+    <mxGraphModel dx="1337" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XuKQJyZq4Ey39g04maqI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-1" target="XuKQJyZq4Ey39g04maqI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XuKQJyZq4Ey39g04maqI-1" target="pzIQD8lgiILrA49vQQQF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-1" value="&lt;font color=&quot;#000000&quot;&gt;인플레이션&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-2" target="XuKQJyZq4Ey39g04maqI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-2" value="&lt;font color=&quot;#000000&quot;&gt;금리 인상,&lt;br&gt;투자금 회수&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-4" target="XuKQJyZq4Ey39g04maqI-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-4" value="&lt;font color=&quot;#000000&quot;&gt;주식/코인 &lt;br&gt;시장가 하락&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-6" target="XuKQJyZq4Ey39g04maqI-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-6" value="&lt;font color=&quot;#000000&quot;&gt;투자열기 감소&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-8" target="XuKQJyZq4Ey39g04maqI-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-8" value="&lt;font color=&quot;#000000&quot;&gt;신뢰도 높은 통화로&lt;br&gt;&amp;nbsp;자본 이동&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-10" target="XuKQJyZq4Ey39g04maqI-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-10" value="&lt;font color=&quot;#000000&quot;&gt;달러 강세 시작&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-12" target="XuKQJyZq4Ey39g04maqI-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-12" value="&lt;font color=&quot;#000000&quot;&gt;고환율 초래&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-14" value="&lt;font color=&quot;#000000&quot;&gt;원자재 가격&lt;br&gt;상승&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="130" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-16" target="XuKQJyZq4Ey39g04maqI-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-16" value="&lt;font color=&quot;#000000&quot;&gt;러-우 전쟁 발발&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="685" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XuKQJyZq4Ey39g04maqI-18" target="XuKQJyZq4Ey39g04maqI-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XuKQJyZq4Ey39g04maqI-18" value="&lt;font color=&quot;#000000&quot;&gt;에너지 절대가격&amp;nbsp;&lt;br&gt;상승&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="795" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-2" value="인플레이션 정의&lt;br&gt;&lt;br&gt;물가 수준이 지속적으로 오르는 현상" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-4" value="디플레이션 정의&lt;br&gt;&lt;br&gt;물가가 지속적으로 &lt;br&gt;하락하는 현상" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="-110" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.462;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-2" target="pzIQD8lgiILrA49vQQQF-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="130" as="sourcePoint" />
+            <mxPoint x="510" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
