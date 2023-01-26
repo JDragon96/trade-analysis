@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T11:36:10.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vsE79QYa2xksihqn_fPc" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-26T11:43:16.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="R6fqai7gQqVVpUALQxTE" version="20.8.11" type="github">
   <diagram name="페이지-1" id="IkwNOU0qhHBYfhDU2j00">
     <mxGraphModel dx="1337" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,17 @@
         <mxCell id="XuKQJyZq4Ey39g04maqI-18" value="&lt;font color=&quot;#000000&quot;&gt;에너지 절대가격&amp;nbsp;&lt;br&gt;상승&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="-100" y="795" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-2" target="pzIQD8lgiILrA49vQQQF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-2" target="pzIQD8lgiILrA49vQQQF-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-2" target="pzIQD8lgiILrA49vQQQF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pzIQD8lgiILrA49vQQQF-2" value="인플레이션 정의&lt;br&gt;&lt;br&gt;물가 수준이 지속적으로 오르는 현상" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="20" width="140" height="90" as="geometry" />
+          <mxGeometry x="340" y="20" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pzIQD8lgiILrA49vQQQF-4" value="디플레이션 정의&lt;br&gt;&lt;br&gt;물가가 지속적으로 &lt;br&gt;하락하는 현상" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="-110" width="140" height="90" as="geometry" />
@@ -75,6 +84,36 @@
             <mxPoint x="460" y="130" as="sourcePoint" />
             <mxPoint x="510" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-7" value="원인 1&lt;br&gt;&lt;br&gt;수요 증대에 따른 공급 부족으로,&lt;br&gt;물가상승 발생" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-140" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-9" target="pzIQD8lgiILrA49vQQQF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-9" value="원인 2&lt;br&gt;&lt;br&gt;원자재 가격 상승으로 인한, &lt;br&gt;총 공급 감소로 인해 물가상승" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="-30" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-11" target="pzIQD8lgiILrA49vQQQF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-11" value="원가 상승으로 마진을 맞추기 위해,&lt;br&gt;가격을 올림" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="80" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-13" target="pzIQD8lgiILrA49vQQQF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-13" value="소비 감소 유발....&lt;br&gt;소비 감소에 따른, 공급량 감소" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="180" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pzIQD8lgiILrA49vQQQF-13" target="pzIQD8lgiILrA49vQQQF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-16" value="스테그플레이션" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="290" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pzIQD8lgiILrA49vQQQF-18" value="원인 3&lt;br&gt;&lt;br&gt;인건비 상승으로 인한, 물가상승" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="100" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
